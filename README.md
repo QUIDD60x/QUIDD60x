@@ -5,7 +5,7 @@
 
 ## I use Github for releasing my work for free, and linking it to my website. Some things i'm working on includes:
 
-- Your Tale-Terraria mod, mostly to learn C++ better but also because I enjoy terraria.
+- Your Tale-Terraria mod, mostly to learn C# better but also because I enjoy terraria.
 - Minecraft server plugins such as being able to create a website hosted off of your own minecraft server.
 - A Minecraft client made for taking incredibly good pictures.
 - And a deep-learning AI to play and beat minecraft.
