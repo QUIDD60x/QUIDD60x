@@ -33,41 +33,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- 
--
--
--
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCKKzGfsWE3fCoRQY3zCOjmA)
-
----
-
-### 📕 Latest updates for EZ on the EYEZ Resource mashup pack:
-
--ADD STUFF HERE
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1.
-2.
-3.
-4.
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="QUIDD60x's GitHub Stats" src="https://github-readme-stats.quidd60x.vercel.app/api?username=QUIDD60x&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://quiddcorp.net
 [youtube]: https://www.youtube.com/channel/UCKKzGfsWE3fCoRQY3zCOjmA
