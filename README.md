@@ -1,7 +1,7 @@
 ### Welcome to my README.
 
 [![Website](https://img.shields.io/website?label=quiddcorp.net&style=for-the-badge&url=https%3A%2F%2Fquiddcorp.net)](https://quiddcorp.net)
-
+(Website currently shut down.)
 
 ## I use Github for releasing my work for free, and linking it to my website. Some things i'm working on includes:
 
