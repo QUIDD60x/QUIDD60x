@@ -1,6 +1,7 @@
 ### Welcome to my README.
 
 [![Website](https://img.shields.io/website?label=quiddcorp.com&style=for-the-badge&url=https%3A%2F%2Fquiddcorp.com)](https://quiddcorp.com)
+[![YouTube](https://img.shields.io/badge/I%20hope%20you're-doing%20well!-blue)](https://www.youtube.com/channel/UCsJTVKTl5VRhvsj6UXz_0xw)
 
 ## I use Github for releasing my work for free, and linking it to my website. Some things i'm working on includes:
 
@@ -32,7 +33,7 @@
 
 ## Github Stats
 I want to use Github for posting my work more, so here is some stuff you can make fun of me for.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QUIDD60x&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=QUIDD60x&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QUIDD60x&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -40,4 +41,4 @@ I want to use Github for posting my work more, so here is some stuff you can mak
 
 
 [website]: https://quiddcorp.net
-[youtube]: https://www.youtube.com/channel/UCKKzGfsWE3fCoRQY3zCOjmA
+[youtube]: https://www.youtube.com/channel/UCsJTVKTl5VRhvsj6UXz_0xw
