@@ -40,5 +40,5 @@ I want to use Github for posting my work more, so here is some stuff you can mak
 
 
 
-[website]: https://quiddcorp.net
+[website]: https://quiddcorp.com
 [youtube]: https://www.youtube.com/channel/UCsJTVKTl5VRhvsj6UXz_0xw
