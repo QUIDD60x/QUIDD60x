@@ -1,4 +1,4 @@
-### Welcome to my README.
+### Welcome to my README, fellow traveler!
 
 [![Website](https://img.shields.io/website?label=quiddcorp.com&style=for-the-badge&url=https%3A%2F%2Fquiddcorp.com)](https://quiddcorp.com)
 [![YouTube](https://img.shields.io/badge/I%20hope%20you're-doing%20well!-blue)](https://www.youtube.com/channel/UCsJTVKTl5VRhvsj6UXz_0xw)
